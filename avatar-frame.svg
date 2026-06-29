@@ -1,0 +1,44 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#38BDF8;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#67E8F9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0EA5E9;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glowFrame" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#38BDF8;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#38BDF8;stop-opacity:0" />
+    </radialGradient>
+    <filter id="frameGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="circleClip">
+      <circle cx="60" cy="60" r="54"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer glow ring -->
+  <circle cx="60" cy="60" r="58" fill="url(#glowFrame)" opacity="0.5"/>
+
+  <!-- Gradient border -->
+  <circle cx="60" cy="60" r="57" fill="none" stroke="url(#frameGrad)" stroke-width="2.5" filter="url(#frameGlow)"/>
+
+  <!-- Inner subtle ring -->
+  <circle cx="60" cy="60" r="54" fill="none" stroke="#38BDF8" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Avatar placeholder (dark background) -->
+  <circle cx="60" cy="60" r="52" fill="#0A1628"/>
+
+  <!-- Initials text -->
+  <text x="60" y="68" text-anchor="middle" font-family="'Segoe UI', 'Inter', system-ui, sans-serif" font-size="28" font-weight="700" fill="#38BDF8">AK</text>
+
+  <!-- Corner accent dots -->
+  <circle cx="15" cy="60" r="2" fill="#38BDF8" opacity="0.8"/>
+  <circle cx="105" cy="60" r="2" fill="#38BDF8" opacity="0.8"/>
+  <circle cx="60" cy="15" r="2" fill="#67E8F9" opacity="0.8"/>
+  <circle cx="60" cy="105" r="2" fill="#67E8F9" opacity="0.8"/>
+</svg>
