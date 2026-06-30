@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ── BANNER ──────────────────────────────────────────────────── -->
-<img src="./assets/banner.svg" alt="Akash S Konchigeri — Full Stack Developer" width="100%" />
+<img src="./assests/banner.svg" alt="Akash S Konchigeri — Full Stack Developer" width="100%" />
 
 <br/>
 <br/>
@@ -33,7 +33,7 @@
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 
 <br/>
 
@@ -101,7 +101,7 @@ const akash = {
 </table>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -189,7 +189,7 @@ const akash = {
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -235,7 +235,7 @@ An agricultural utility application that enables smart crop scanning and calcula
 
 </td>
 
-<td width="1%" align="center"><img src="./assets/divider.svg" height="200" style="width:1px"/></td>
+<td width="1%" align="center"><img src="./assests/divider.svg" height="200" style="width:1px"/></td>
 
 <!-- PROJECT 2: JavaDBMSProject -->
 <td width="33%" valign="top">
@@ -264,7 +264,7 @@ A full-featured Java-based Database Management System project. Implements core D
 
 </td>
 
-<td width="1%" align="center"><img src="./assets/divider.svg" height="200" style="width:1px"/></td>
+<td width="1%" align="center"><img src="./assests/divider.svg" height="200" style="width:1px"/></td>
 
 <!-- PROJECT 3: Grade -->
 <td width="33%" valign="top">
@@ -298,7 +298,7 @@ A grade management and analysis tool for tracking academic performance. Provides
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -315,7 +315,7 @@ A grade management and analysis tool for tracking academic performance. Provides
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Konchigeriakash&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&rank_icon=github&custom_title=Akash's+GitHub+Stats" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Konchigeriakash&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&rank_icon=github&custom_title=Akash's+GitHub+Stats" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konchigeriakash&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&langs_count=7" alt="Top Languages"/>
 
@@ -338,7 +338,7 @@ A grade management and analysis tool for tracking academic performance. Provides
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -360,7 +360,7 @@ A grade management and analysis tool for tracking academic performance. Provides
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -414,7 +414,7 @@ Focused on going from "it works" to "it scales, it's tested, and it's maintainab
 </table>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -455,7 +455,7 @@ Focused on going from "it works" to "it scales, it's tested, and it's maintainab
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -494,7 +494,7 @@ Focused on going from "it works" to "it scales, it's tested, and it's maintainab
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -525,7 +525,7 @@ Focused on going from "it works" to "it scales, it's tested, and it's maintainab
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
