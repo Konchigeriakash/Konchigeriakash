@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer in the Making | Java · Spring Boot · React
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+Java+%26+Spring+Boot;Exploring+microservices+%26+REST+APIs;Open+to+internships+and+collaboration;Ship.+Learn.+Iterate.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+full-stack+apps+with+Java+%26+Spring+Boot;Exploring+microservices+%26+REST+APIs;Open+to+internships+and+collaboration;Ship.+Learn.+Iterate.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konchigeriakash)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Konchigeriakash)
@@ -63,11 +63,11 @@ public class Akash {
 A full-stack e-commerce platform built for a real small business (Parvati Shankar Cold Pressed Edible Oil Unit). Customers browse products, manage a cart, and check out with JWT-authenticated accounts; orders route straight to the owner via an auto-generated WhatsApp confirmation. Ships with a full admin dashboard for product/order management, deployed across a 3-service cloud architecture (Vercel + Render + Neon).
 `Java 17` `Spring Boot 3` `React 19` `PostgreSQL` `JWT` `Docker`
 
-### 🗄️ [JavaDBMSProject](https://github.com/Konchigeriakash/JavaDBMSProject)
-A full-featured Java-based Database Management System. Implements CRUD operations, relational data modeling, and SQL query optimization with a structured backend built on JDBC and Java Swing.
-`Java` `MySQL` `Oracle SQL`
+### 🗄️ [JavaDBMSProject — Inventory Dashboard](https://github.com/Konchigeriakash/JavaDBMSProject)
+A GUI-driven inventory management system pairing a Java Swing dashboard with a MySQL backend. Features real-time inventory tracking, automated database setup scripts, JDBC-based CRUD operations, and dynamic input validation to keep bad data out before it hits the database.
+`Java` `Swing` `MySQL` `JDBC`
 
-### 📊 [Grade](https://github.com/Konchigeriakash/Grade)
+### 📊 [Grade](https://github.com/Konchigeriakash/Grade) · [Live Demo](https://grade-lyart.vercel.app/)
 A grade management and analysis tool for tracking academic performance, with calculation, reporting, and visualization features built around clean logic and reliable data handling.
 `Java` `Python` `R`
 
@@ -91,6 +91,12 @@ A grade management and analysis tool for tracking academic performance, with cal
 
 ---
 
+## 🐍 Contribution Snake
+
+![GitHub contribution snake animation](https://raw.githubusercontent.com/Konchigeriakash/Konchigeriakash/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 🎯 Current Goals
 
 - ✦ Master Spring Boot microservices
@@ -106,6 +112,7 @@ A grade management and analysis tool for tracking academic performance, with cal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konchigeriakash)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Konchigeriakash)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konchigeriakash@gmail.com)
 
 *Have a project, an internship lead, or just want to talk code? My inbox is always open.*
 
