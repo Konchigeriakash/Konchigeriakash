@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### Full-Stack Developer in the making | CS Student | Building things that actually work
+### Full-Stack Developer in the making | ISE Student | Building things that actually work
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React+%2B+MongoDB;Turning+ideas+into+products;Currently+learning%3A+Spring+Boot+%26+Cloud;Open+to+internships+%26+collaborations)](https://git.io/typing-svg)
 
@@ -63,6 +63,8 @@ public class Akash {
 
 </div>
 
+<br>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
 <br>
 
 ## 🌟 Featured Projects
@@ -125,15 +127,30 @@ Event and community-platform builds for college tech fests and the E-Cell chapte
 </div>
 
 <br>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
+<br>
 
-## 📈 GitHub Stats
-
+<!--  GITHUB STATS                                                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Konchigeriakash&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konchigeriakash&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&langs_count=7" width="41%" />
+## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Konchigeriakash&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=0ea5e9&fire=67E8F9&currStreakNum=ffffff&sideNums=cbd5e1&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=6748B&background=0d1117" width="70%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Konchigeriakash&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=00000000&rank_icon=github&custom_title=Akash's+GitHub+Stats" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konchigeriakash&layout=compact&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=00000000&langs_count=7" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Konchigeriakash&hide_border=true&stroke=38BDF8&ring=0EA5E9&fire=67E8F9&currStreakNum=FFFFFF&sideNums=CBD5E1&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&background=00000000" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Konchigeriakash&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7&title=Repositories,Commits,Stars,Followers,PullRequest,Issues,Experience" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konchigeriakash&theme=react-dark&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=67e8f9&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution+Activity" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -152,6 +169,8 @@ Event and community-platform builds for college tech fests and the E-Cell chapte
 </div>
 
 <br>
+<img src="./assests/divider.svg" width="100%" alt="divider"/>
+<br>
 
 ## 🎯 Currently Learning & Goals
 
@@ -162,7 +181,11 @@ Event and community-platform builds for college tech fests and the E-Cell chapte
 | ☁️ **AWS** — EC2, S3, deployments | ✦ Contribute to open-source projects |
 | 🧱 **Maven / Gradle** — build & dependency mgmt | ✦ Strengthen system design fundamentals |
 
+<div align="center">
+
 > *"First, solve the problem. Then, write the code."*
+
+</div>
 
 <br>
 
@@ -177,5 +200,9 @@ I'm actively looking for **full-stack developer internships/roles** — if you'r
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/konchigeriakash)
 
 ⭐ *If any of my projects helped you, a star means a lot!*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Konchigeriakash&style=flat-square&color=38bdf8" alt="Profile views"/>
 
 </div>
